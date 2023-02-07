@@ -3,7 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-```[Projeyi klonladım bu yazıya tıklayarak linke gidebilirsiniz](https://github.com/thearmytr/kodluyoruzilkrepo)```
+[Projeyi klonladım bu yazıya tıklayarak linke gidebilirsiniz](https://github.com/thearmytr/kodluyoruzilkrepo)
 
 >git clone https://github.com/thearmytr/kodluyoruzilkrepo
 
